@@ -1,4 +1,9 @@
-```c
+//
+//  1024 [기초-입출력] 단어1개 입력받아 나누어 출력하기.c
+//
+//  Created by yun on 2022/02/19.
+//
+
 #include <stdio.h>
 
 int main(void) {
@@ -11,4 +16,3 @@ int main(void) {
     
     return 0;
 }
-```
