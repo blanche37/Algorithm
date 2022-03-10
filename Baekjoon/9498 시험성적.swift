@@ -1,4 +1,9 @@
-```swift
+//
+//  9498 시험성적.swift
+//
+//  Created by yun on 2022/02/19.
+//
+
 func getGrade() {
     guard let point = readLine().flatMap({Int($0)}) else {
         return
@@ -19,4 +24,3 @@ func getGrade() {
 }
 
 getGrade()
-```

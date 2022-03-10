@@ -1,4 +1,9 @@
-```swift
+//
+//  1330 두 수 비교하기.swift
+//
+//  Created by yun on 2022/02/19.
+//
+
 import Foundation
 
 func getResult() {
@@ -15,4 +20,4 @@ func getResult() {
 }
 
 getResult()
-```
+

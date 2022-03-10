@@ -1,4 +1,9 @@
-```swift
+//
+//  1008 A/B.swift
+//
+//  Created by yun on 2022/02/19.
+//
+
 import Foundation
 
 func divide() {
@@ -9,4 +14,3 @@ func divide() {
 }
 
 divide()
-```

@@ -1,4 +1,0 @@
-```swift
-print("Hello World!")
-```
-

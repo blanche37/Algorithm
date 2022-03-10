@@ -1,4 +1,9 @@
-```swift
+//
+//  10430 나머지.swift
+//
+//  Created by yun on 2022/02/19.
+//
+
 import Foundation
 
 func operate() {
@@ -12,4 +17,3 @@ func operate() {
 }
 
 operate()
-```

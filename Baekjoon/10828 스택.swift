@@ -1,4 +1,9 @@
-```swift
+//
+//  10828 스택.swift
+//
+//  Created by yun on 2022/02/19.
+//
+
 import Foundation
 
 struct Stack {
@@ -66,4 +71,3 @@ func start() {
 }
 
 start()
-```

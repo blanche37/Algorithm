@@ -1,4 +1,9 @@
-```swift
+//
+//  10869 사칙연산.swift
+//
+//  Created by yun on 2022/02/19.
+//
+
 import Foundation
 
 func operate() {
@@ -13,4 +18,3 @@ func operate() {
 }
 
 operate()
-```

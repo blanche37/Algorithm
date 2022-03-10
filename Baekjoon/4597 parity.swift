@@ -1,4 +1,9 @@
-```swift
+//
+//  4597 parity.swift
+//
+//  Created by yun on 2022/02/19.
+//
+
 while true {
     var input = readLine()!
 
@@ -25,4 +30,3 @@ while true {
     }
     print(input)
 }
-```

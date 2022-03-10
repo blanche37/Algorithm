@@ -1,12 +1,16 @@
-```swift
+//
+//  1001 A-B.swift
+//
+//  Created by yun on 2022/02/19.
+//
+
 import Foundation
 
-func multiply() {
+func minus() {
     guard let userInput = readLine()?.components(separatedBy: " ").compactMap({ Int($0) }).filter({($0 > 0 && $0 < 10)}), userInput.count == 2 else {
-        return multiply()
+        return minus()
     }
-    print("\(userInput[0] * userInput[1])")
+    print("\(userInput[0] - userInput[1])")
 }
 
-multiply()
-```
+minus()
